@@ -1,0 +1,11 @@
+package newton.bcs345.music.advancedmp3player;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+		Window w = new Window();
+		w.setVisible(true);
+	}
+
+}
